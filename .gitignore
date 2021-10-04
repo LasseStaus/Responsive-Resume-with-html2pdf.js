@@ -1,0 +1,6 @@
+dist/
+.cache/
+node_modules/
+src/scss/font
+src/scss/fonts.scss
+src/pdfs
